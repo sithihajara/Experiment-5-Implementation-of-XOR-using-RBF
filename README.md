@@ -31,7 +31,7 @@ The RBF of hidden neuron as gaussian function
 
 
 ## ALGORIHM:
-
+```
 step1
 Import the necessary libraries of python.
 
@@ -52,6 +52,7 @@ step6.
 
 step 7
 To find the weights for the edges to the 1-output unit. Weights associated would be: edge joining 1st node (peak1 output) to the output node edge joining 2nd node (peak2 output) to the output node bias edge
+```
 ## PROGRAM:
 ```
 import numpy as np
